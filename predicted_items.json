@@ -1,0 +1,2160 @@
+{
+    "auction_10_image_122.jpg": {
+        "prediction_filename": "pred_auction_10_image_122.jpg",
+        "predicted_data": {},
+        "auction_id": null
+    },
+    "auction_10_image_123.jpg": {
+        "prediction_filename": "pred_auction_10_image_123.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.395889550447464
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_10_image_124.jpg": {
+        "prediction_filename": "pred_auction_10_image_124.jpg",
+        "predicted_data": {},
+        "auction_id": "4554459"
+    },
+    "auction_10_image_125.jpg": {
+        "prediction_filename": "pred_auction_10_image_125.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.395889550447464
+            ]
+        },
+        "auction_id": "4554459"
+    },
+    "auction_11_image_134.jpg": {
+        "prediction_filename": "pred_auction_11_image_134.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.38175398111343384
+            ],
+            "suitcase": [
+                0.26588866114616394
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_11_image_135.jpg": {
+        "prediction_filename": "pred_auction_11_image_135.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4870019853115082,
+                0.41267621517181396,
+                0.3980620205402374,
+                0.390349417924881,
+                0.33846649527549744
+            ],
+            "handbag": [
+                0.3501407504081726
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_11_image_136.jpg": {
+        "prediction_filename": "pred_auction_11_image_136.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.3132685422897339,
+                0.27277514338493347
+            ],
+            "suitcase": [
+                0.30489757657051086
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_11_image_137.jpg": {
+        "prediction_filename": "pred_auction_11_image_137.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.38175398111343384
+            ],
+            "suitcase": [
+                0.26588866114616394
+            ]
+        },
+        "auction_id": "4554442"
+    },
+    "auction_11_image_138.jpg": {
+        "prediction_filename": "pred_auction_11_image_138.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4870019853115082,
+                0.41267621517181396,
+                0.3980620205402374,
+                0.390349417924881,
+                0.33846649527549744
+            ],
+            "handbag": [
+                0.3501407504081726
+            ]
+        },
+        "auction_id": "4554442"
+    },
+    "auction_11_image_139.jpg": {
+        "prediction_filename": "pred_auction_11_image_139.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.3132685422897339,
+                0.27277514338493347
+            ],
+            "suitcase": [
+                0.30489757657051086
+            ]
+        },
+        "auction_id": "4554442"
+    },
+    "auction_12_image_148.jpg": {
+        "prediction_filename": "pred_auction_12_image_148.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4080265760421753,
+                0.39047038555145264,
+                0.3899266719818115,
+                0.3668900430202484
+            ],
+            "handbag": [
+                0.34082746505737305
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_12_image_149.jpg": {
+        "prediction_filename": "pred_auction_12_image_149.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.2724689543247223
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_12_image_150.jpg": {
+        "prediction_filename": "pred_auction_12_image_150.jpg",
+        "predicted_data": {},
+        "auction_id": null
+    },
+    "auction_12_image_151.jpg": {
+        "prediction_filename": "pred_auction_12_image_151.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4080265760421753,
+                0.39047038555145264,
+                0.3899266719818115,
+                0.3668900430202484
+            ],
+            "handbag": [
+                0.34082746505737305
+            ]
+        },
+        "auction_id": "4554334"
+    },
+    "auction_12_image_152.jpg": {
+        "prediction_filename": "pred_auction_12_image_152.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.2724689543247223
+            ]
+        },
+        "auction_id": "4554334"
+    },
+    "auction_12_image_153.jpg": {
+        "prediction_filename": "pred_auction_12_image_153.jpg",
+        "predicted_data": {},
+        "auction_id": "4554334"
+    },
+    "auction_12_image_154.jpg": {
+        "prediction_filename": "pred_auction_12_image_154.jpg",
+        "predicted_data": {},
+        "auction_id": "4554334"
+    },
+    "auction_13_image_164.jpg": {
+        "prediction_filename": "pred_auction_13_image_164.jpg",
+        "predicted_data": {
+            "umbrella": [
+                0.31434544920921326,
+                0.3141423761844635
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_13_image_167.jpg": {
+        "prediction_filename": "pred_auction_13_image_167.jpg",
+        "predicted_data": {
+            "umbrella": [
+                0.31434544920921326,
+                0.3141423761844635
+            ]
+        },
+        "auction_id": "4554348"
+    },
+    "auction_14_image_174.jpg": {
+        "prediction_filename": "pred_auction_14_image_174.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.3949914872646332
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_14_image_175.jpg": {
+        "prediction_filename": "pred_auction_14_image_175.jpg",
+        "predicted_data": {
+            "bed": [
+                0.707412600517273
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_14_image_177.jpg": {
+        "prediction_filename": "pred_auction_14_image_177.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.3949914872646332
+            ]
+        },
+        "auction_id": "4553958"
+    },
+    "auction_14_image_178.jpg": {
+        "prediction_filename": "pred_auction_14_image_178.jpg",
+        "predicted_data": {
+            "bed": [
+                0.707412600517273
+            ]
+        },
+        "auction_id": "4553958"
+    },
+    "auction_15_image_186.jpg": {
+        "prediction_filename": "pred_auction_15_image_186.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.5089988708496094,
+                0.355011522769928
+            ],
+            "handbag": [
+                0.37974870204925537,
+                0.32438668608665466
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_15_image_187.jpg": {
+        "prediction_filename": "pred_auction_15_image_187.jpg",
+        "predicted_data": {
+            "bed": [
+                0.5040942430496216,
+                0.2740042507648468
+            ],
+            "tv": [
+                0.3945155143737793
+            ],
+            "refrigerator": [
+                0.32756513357162476
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_15_image_189.jpg": {
+        "prediction_filename": "pred_auction_15_image_189.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.5089988708496094,
+                0.355011522769928
+            ],
+            "handbag": [
+                0.37974870204925537,
+                0.32438668608665466
+            ]
+        },
+        "auction_id": "4553986"
+    },
+    "auction_15_image_190.jpg": {
+        "prediction_filename": "pred_auction_15_image_190.jpg",
+        "predicted_data": {
+            "bed": [
+                0.5040942430496216,
+                0.2740042507648468
+            ],
+            "tv": [
+                0.3945155143737793
+            ],
+            "refrigerator": [
+                0.32756513357162476
+            ]
+        },
+        "auction_id": "4553986"
+    },
+    "auction_16_image_198.jpg": {
+        "prediction_filename": "pred_auction_16_image_198.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.5446533560752869
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_16_image_199.jpg": {
+        "prediction_filename": "pred_auction_16_image_199.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.7260401248931885
+            ],
+            "bed": [
+                0.31789177656173706
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_16_image_200.jpg": {
+        "prediction_filename": "pred_auction_16_image_200.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.552203893661499
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_16_image_201.jpg": {
+        "prediction_filename": "pred_auction_16_image_201.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.5446533560752869
+            ]
+        },
+        "auction_id": "4559085"
+    },
+    "auction_16_image_202.jpg": {
+        "prediction_filename": "pred_auction_16_image_202.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.7260401248931885
+            ],
+            "bed": [
+                0.31789177656173706
+            ]
+        },
+        "auction_id": "4559085"
+    },
+    "auction_16_image_203.jpg": {
+        "prediction_filename": "pred_auction_16_image_203.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.552203893661499
+            ]
+        },
+        "auction_id": "4559085"
+    },
+    "auction_16_image_204.jpg": {
+        "prediction_filename": "pred_auction_16_image_204.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.5714356899261475,
+                0.31643569469451904
+            ],
+            "laptop": [
+                0.47725510597229004
+            ]
+        },
+        "auction_id": "4559085"
+    },
+    "auction_16_image_205.jpg": {
+        "prediction_filename": "pred_auction_16_image_205.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.4530943036079407,
+                0.2992951571941376
+            ],
+            "bench": [
+                0.4092731475830078
+            ],
+            "tv": [
+                0.3984868824481964
+            ],
+            "backpack": [
+                0.25468379259109497
+            ]
+        },
+        "auction_id": "4559085"
+    },
+    "auction_16_image_206.jpg": {
+        "prediction_filename": "pred_auction_16_image_206.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.5813565254211426,
+                0.5453055500984192
+            ]
+        },
+        "auction_id": "4559085"
+    },
+    "auction_17_image_218.jpg": {
+        "prediction_filename": "pred_auction_17_image_218.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.5440139174461365
+            ],
+            "wine glass": [
+                0.4890978932380676
+            ],
+            "book": [
+                0.37499719858169556,
+                0.29898983240127563
+            ],
+            "bowl": [
+                0.372698038816452
+            ],
+            "vase": [
+                0.2577452063560486
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_17_image_219.jpg": {
+        "prediction_filename": "pred_auction_17_image_219.jpg",
+        "predicted_data": {
+            "dog": [
+                0.4509257674217224
+            ],
+            "cat": [
+                0.41118544340133667
+            ],
+            "teddy bear": [
+                0.41052567958831787
+            ],
+            "book": [
+                0.31063270568847656
+            ],
+            "bottle": [
+                0.2899254262447357
+            ],
+            "wine glass": [
+                0.2659061551094055
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_17_image_220.jpg": {
+        "prediction_filename": "pred_auction_17_image_220.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.6296641230583191,
+                0.39019671082496643,
+                0.2847426235675812,
+                0.25252243876457214
+            ],
+            "handbag": [
+                0.37989184260368347
+            ],
+            "teddy bear": [
+                0.3205024003982544
+            ],
+            "suitcase": [
+                0.26765111088752747
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_17_image_221.jpg": {
+        "prediction_filename": "pred_auction_17_image_221.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.5440139174461365
+            ],
+            "wine glass": [
+                0.4890978932380676
+            ],
+            "book": [
+                0.37499719858169556,
+                0.29898983240127563
+            ],
+            "bowl": [
+                0.372698038816452
+            ],
+            "vase": [
+                0.2577452063560486
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_17_image_222.jpg": {
+        "prediction_filename": "pred_auction_17_image_222.jpg",
+        "predicted_data": {
+            "dog": [
+                0.4509257674217224
+            ],
+            "cat": [
+                0.41118544340133667
+            ],
+            "teddy bear": [
+                0.41052567958831787
+            ],
+            "book": [
+                0.31063270568847656
+            ],
+            "bottle": [
+                0.2899254262447357
+            ],
+            "wine glass": [
+                0.2659061551094055
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_17_image_223.jpg": {
+        "prediction_filename": "pred_auction_17_image_223.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.6296641230583191,
+                0.39019671082496643,
+                0.2847426235675812,
+                0.25252243876457214
+            ],
+            "handbag": [
+                0.37989184260368347
+            ],
+            "teddy bear": [
+                0.3205024003982544
+            ],
+            "suitcase": [
+                0.26765111088752747
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_17_image_224.jpg": {
+        "prediction_filename": "pred_auction_17_image_224.jpg",
+        "predicted_data": {
+            "wine glass": [
+                0.6559184789657593
+            ],
+            "bottle": [
+                0.5331411361694336,
+                0.5157599449157715,
+                0.26352185010910034,
+                0.2510538697242737
+            ],
+            "vase": [
+                0.4762137532234192
+            ],
+            "cup": [
+                0.36408352851867676
+            ],
+            "suitcase": [
+                0.25118014216423035
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_17_image_225.jpg": {
+        "prediction_filename": "pred_auction_17_image_225.jpg",
+        "predicted_data": {
+            "wine glass": [
+                0.5345394015312195
+            ],
+            "suitcase": [
+                0.45141154527664185
+            ],
+            "book": [
+                0.38215672969818115
+            ],
+            "bowl": [
+                0.32165640592575073
+            ],
+            "cup": [
+                0.2566165328025818
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_17_image_226.jpg": {
+        "prediction_filename": "pred_auction_17_image_226.jpg",
+        "predicted_data": {
+            "vase": [
+                0.7455130815505981
+            ],
+            "suitcase": [
+                0.6840538382530212,
+                0.6015702486038208,
+                0.4595370590686798,
+                0.26924997568130493
+            ],
+            "bowl": [
+                0.5838330388069153
+            ],
+            "bottle": [
+                0.309015154838562
+            ],
+            "refrigerator": [
+                0.26383882761001587
+            ],
+            "handbag": [
+                0.2591020166873932
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_17_image_227.jpg": {
+        "prediction_filename": "pred_auction_17_image_227.jpg",
+        "predicted_data": {
+            "wine glass": [
+                0.830967366695404
+            ],
+            "cup": [
+                0.6636660099029541,
+                0.6622768640518188,
+                0.6568966507911682,
+                0.5848348736763,
+                0.3478260934352875
+            ],
+            "bowl": [
+                0.601669192314148,
+                0.2987987995147705
+            ],
+            "bottle": [
+                0.5386917591094971,
+                0.4744252562522888,
+                0.40302568674087524
+            ],
+            "teddy bear": [
+                0.29976117610931396,
+                0.28040310740470886
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_17_image_228.jpg": {
+        "prediction_filename": "pred_auction_17_image_228.jpg",
+        "predicted_data": {
+            "chair": [
+                0.581038236618042
+            ],
+            "cake": [
+                0.49904298782348633
+            ],
+            "bowl": [
+                0.3555912971496582
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_17_image_229.jpg": {
+        "prediction_filename": "pred_auction_17_image_229.jpg",
+        "predicted_data": {},
+        "auction_id": "4559198"
+    },
+    "auction_17_image_230.jpg": {
+        "prediction_filename": "pred_auction_17_image_230.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.3914881646633148
+            ],
+            "bottle": [
+                0.32993102073669434
+            ],
+            "book": [
+                0.25628575682640076
+            ]
+        },
+        "auction_id": "4559198"
+    },
+    "auction_18_image_246.jpg": {
+        "prediction_filename": "pred_auction_18_image_246.jpg",
+        "predicted_data": {
+            "backpack": [
+                0.33496174216270447
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_18_image_247.jpg": {
+        "prediction_filename": "pred_auction_18_image_247.jpg",
+        "predicted_data": {
+            "backpack": [
+                0.3215789794921875
+            ],
+            "handbag": [
+                0.25620922446250916
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_18_image_248.jpg": {
+        "prediction_filename": "pred_auction_18_image_248.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.28592559695243835
+            ],
+            "backpack": [
+                0.2754790484905243
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_18_image_249.jpg": {
+        "prediction_filename": "pred_auction_18_image_249.jpg",
+        "predicted_data": {
+            "backpack": [
+                0.33496174216270447
+            ]
+        },
+        "auction_id": "4559411"
+    },
+    "auction_18_image_250.jpg": {
+        "prediction_filename": "pred_auction_18_image_250.jpg",
+        "predicted_data": {
+            "backpack": [
+                0.3215789794921875
+            ],
+            "handbag": [
+                0.25620922446250916
+            ]
+        },
+        "auction_id": "4559411"
+    },
+    "auction_18_image_251.jpg": {
+        "prediction_filename": "pred_auction_18_image_251.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.28592559695243835
+            ],
+            "backpack": [
+                0.2754790484905243
+            ]
+        },
+        "auction_id": "4559411"
+    },
+    "auction_18_image_252.jpg": {
+        "prediction_filename": "pred_auction_18_image_252.jpg",
+        "predicted_data": {
+            "person": [
+                0.2703840732574463
+            ]
+        },
+        "auction_id": "4559411"
+    },
+    "auction_18_image_253.jpg": {
+        "prediction_filename": "pred_auction_18_image_253.jpg",
+        "predicted_data": {
+            "backpack": [
+                0.3974543511867523
+            ],
+            "bed": [
+                0.31873050332069397
+            ]
+        },
+        "auction_id": "4559411"
+    },
+    "auction_19_image_264.jpg": {
+        "prediction_filename": "pred_auction_19_image_264.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.4936326742172241
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_19_image_265.jpg": {
+        "prediction_filename": "pred_auction_19_image_265.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.4250684082508087,
+                0.3771745562553406,
+                0.35311922430992126,
+                0.2929084599018097
+            ],
+            "couch": [
+                0.34634891152381897
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_19_image_266.jpg": {
+        "prediction_filename": "pred_auction_19_image_266.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.6449146270751953
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_19_image_267.jpg": {
+        "prediction_filename": "pred_auction_19_image_267.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.4936326742172241
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_19_image_268.jpg": {
+        "prediction_filename": "pred_auction_19_image_268.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.4250684082508087,
+                0.3771745562553406,
+                0.35311922430992126,
+                0.2929084599018097
+            ],
+            "couch": [
+                0.34634891152381897
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_19_image_269.jpg": {
+        "prediction_filename": "pred_auction_19_image_269.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.6449146270751953
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_19_image_270.jpg": {
+        "prediction_filename": "pred_auction_19_image_270.jpg",
+        "predicted_data": {
+            "toilet": [
+                0.6403514742851257
+            ],
+            "book": [
+                0.293161541223526
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_19_image_271.jpg": {
+        "prediction_filename": "pred_auction_19_image_271.jpg",
+        "predicted_data": {
+            "chair": [
+                0.4049612283706665
+            ],
+            "cat": [
+                0.3928735554218292
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_19_image_272.jpg": {
+        "prediction_filename": "pred_auction_19_image_272.jpg",
+        "predicted_data": {
+            "book": [
+                0.3128007650375366
+            ],
+            "sink": [
+                0.30364325642585754
+            ],
+            "handbag": [
+                0.2573317885398865
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_19_image_273.jpg": {
+        "prediction_filename": "pred_auction_19_image_273.jpg",
+        "predicted_data": {
+            "cell phone": [
+                0.3721494674682617
+            ],
+            "book": [
+                0.2942860722541809
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_19_image_274.jpg": {
+        "prediction_filename": "pred_auction_19_image_274.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.3002720773220062
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_19_image_275.jpg": {
+        "prediction_filename": "pred_auction_19_image_275.jpg",
+        "predicted_data": {
+            "chair": [
+                0.6256005167961121
+            ],
+            "handbag": [
+                0.4713819622993469,
+                0.3088223338127136
+            ]
+        },
+        "auction_id": "4559431"
+    },
+    "auction_1_image_13.jpg": {
+        "prediction_filename": "pred_auction_1_image_13.jpg",
+        "predicted_data": {},
+        "auction_id": "4568115"
+    },
+    "auction_1_image_2.jpg": {
+        "prediction_filename": "pred_auction_1_image_2.jpg",
+        "predicted_data": {},
+        "auction_id": "4568115"
+    },
+    "auction_1_image_3.jpg": {
+        "prediction_filename": "pred_auction_1_image_3.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.5280144214630127
+            ],
+            "handbag": [
+                0.3976861834526062
+            ]
+        },
+        "auction_id": "4568115"
+    },
+    "auction_1_image_4.jpg": {
+        "prediction_filename": "pred_auction_1_image_4.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.3536814749240875
+            ]
+        },
+        "auction_id": "4568115"
+    },
+    "auction_20_image_290.jpg": {
+        "prediction_filename": "pred_auction_20_image_290.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.46034741401672363
+            ],
+            "suitcase": [
+                0.3686353862285614,
+                0.36212727427482605,
+                0.30365175008773804,
+                0.2500658929347992
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_20_image_291.jpg": {
+        "prediction_filename": "pred_auction_20_image_291.jpg",
+        "predicted_data": {},
+        "auction_id": null
+    },
+    "auction_20_image_292.jpg": {
+        "prediction_filename": "pred_auction_20_image_292.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.5927798748016357,
+                0.4367121458053589,
+                0.4145236015319824,
+                0.4129277467727661,
+                0.2737848162651062
+            ],
+            "train": [
+                0.4011683464050293
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_20_image_293.jpg": {
+        "prediction_filename": "pred_auction_20_image_293.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.46034741401672363
+            ],
+            "suitcase": [
+                0.3686353862285614,
+                0.36212727427482605,
+                0.30365175008773804,
+                0.2500658929347992
+            ]
+        },
+        "auction_id": "4539153"
+    },
+    "auction_20_image_294.jpg": {
+        "prediction_filename": "pred_auction_20_image_294.jpg",
+        "predicted_data": {},
+        "auction_id": "4539153"
+    },
+    "auction_20_image_295.jpg": {
+        "prediction_filename": "pred_auction_20_image_295.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.5927798748016357,
+                0.4367121458053589,
+                0.4145236015319824,
+                0.4129277467727661,
+                0.2737848162651062
+            ],
+            "train": [
+                0.4011683464050293
+            ]
+        },
+        "auction_id": "4539153"
+    },
+    "auction_20_image_296.jpg": {
+        "prediction_filename": "pred_auction_20_image_296.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.39963245391845703,
+                0.39065152406692505,
+                0.33678460121154785
+            ]
+        },
+        "auction_id": "4539153"
+    },
+    "auction_20_image_297.jpg": {
+        "prediction_filename": "pred_auction_20_image_297.jpg",
+        "predicted_data": {
+            "bicycle": [
+                0.45749881863594055
+            ],
+            "motorcycle": [
+                0.41182979941368103
+            ],
+            "book": [
+                0.2725837230682373
+            ]
+        },
+        "auction_id": "4539153"
+    },
+    "auction_20_image_298.jpg": {
+        "prediction_filename": "pred_auction_20_image_298.jpg",
+        "predicted_data": {},
+        "auction_id": "4539153"
+    },
+    "auction_20_image_299.jpg": {
+        "prediction_filename": "pred_auction_20_image_299.jpg",
+        "predicted_data": {
+            "sink": [
+                0.8342488408088684
+            ],
+            "bottle": [
+                0.30495598912239075,
+                0.2675877511501312
+            ]
+        },
+        "auction_id": "4539153"
+    },
+    "auction_21_image_312.jpg": {
+        "prediction_filename": "pred_auction_21_image_312.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.48075932264328003
+            ],
+            "suitcase": [
+                0.37731122970581055,
+                0.2525390088558197
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_21_image_313.jpg": {
+        "prediction_filename": "pred_auction_21_image_313.jpg",
+        "predicted_data": {},
+        "auction_id": null
+    },
+    "auction_21_image_315.jpg": {
+        "prediction_filename": "pred_auction_21_image_315.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.48075932264328003
+            ],
+            "suitcase": [
+                0.37731122970581055,
+                0.2525390088558197
+            ]
+        },
+        "auction_id": "4565868"
+    },
+    "auction_21_image_316.jpg": {
+        "prediction_filename": "pred_auction_21_image_316.jpg",
+        "predicted_data": {},
+        "auction_id": "4565868"
+    },
+    "auction_21_image_323.jpg": {
+        "prediction_filename": "pred_auction_21_image_323.jpg",
+        "predicted_data": {
+            "stop sign": [
+                0.5183699727058411
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_22_image_325.jpg": {
+        "prediction_filename": "pred_auction_22_image_325.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.46681874990463257,
+                0.36220329999923706,
+                0.25064095854759216
+            ],
+            "refrigerator": [
+                0.36124372482299805
+            ],
+            "surfboard": [
+                0.27932947874069214
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_22_image_326.jpg": {
+        "prediction_filename": "pred_auction_22_image_326.jpg",
+        "predicted_data": {
+            "umbrella": [
+                0.5300049185752869
+            ],
+            "surfboard": [
+                0.40773266553878784
+            ],
+            "book": [
+                0.30427518486976624
+            ],
+            "suitcase": [
+                0.2953712046146393
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_22_image_327.jpg": {
+        "prediction_filename": "pred_auction_22_image_327.jpg",
+        "predicted_data": {
+            "bottle": [
+                0.46681874990463257,
+                0.36220329999923706,
+                0.25064095854759216
+            ],
+            "refrigerator": [
+                0.36124372482299805
+            ],
+            "surfboard": [
+                0.27932947874069214
+            ]
+        },
+        "auction_id": "4565853"
+    },
+    "auction_22_image_328.jpg": {
+        "prediction_filename": "pred_auction_22_image_328.jpg",
+        "predicted_data": {
+            "umbrella": [
+                0.5300049185752869
+            ],
+            "surfboard": [
+                0.40773266553878784
+            ],
+            "book": [
+                0.30427518486976624
+            ],
+            "suitcase": [
+                0.2953712046146393
+            ]
+        },
+        "auction_id": "4565853"
+    },
+    "auction_23_image_338.jpg": {
+        "prediction_filename": "pred_auction_23_image_338.jpg",
+        "predicted_data": {
+            "clock": [
+                0.6524827480316162
+            ],
+            "potted plant": [
+                0.3143215775489807
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_23_image_339.jpg": {
+        "prediction_filename": "pred_auction_23_image_339.jpg",
+        "predicted_data": {
+            "clock": [
+                0.6524827480316162
+            ],
+            "potted plant": [
+                0.3143215775489807
+            ]
+        },
+        "auction_id": "4565826"
+    },
+    "auction_23_image_340.jpg": {
+        "prediction_filename": "pred_auction_23_image_340.jpg",
+        "predicted_data": {
+            "clock": [
+                0.3665359318256378,
+                0.3006276786327362
+            ]
+        },
+        "auction_id": "4565826"
+    },
+    "auction_23_image_341.jpg": {
+        "prediction_filename": "pred_auction_23_image_341.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.8249487280845642
+            ],
+            "book": [
+                0.4870748817920685
+            ],
+            "clock": [
+                0.47647520899772644
+            ],
+            "chair": [
+                0.3416858911514282
+            ]
+        },
+        "auction_id": "4565826"
+    },
+    "auction_23_image_342.jpg": {
+        "prediction_filename": "pred_auction_23_image_342.jpg",
+        "predicted_data": {
+            "clock": [
+                0.7774521708488464
+            ],
+            "suitcase": [
+                0.5984020233154297
+            ],
+            "tv": [
+                0.281144380569458
+            ]
+        },
+        "auction_id": "4565826"
+    },
+    "auction_23_image_343.jpg": {
+        "prediction_filename": "pred_auction_23_image_343.jpg",
+        "predicted_data": {
+            "book": [
+                0.36440199613571167
+            ],
+            "person": [
+                0.2650187611579895
+            ]
+        },
+        "auction_id": "4565826"
+    },
+    "auction_23_image_344.jpg": {
+        "prediction_filename": "pred_auction_23_image_344.jpg",
+        "predicted_data": {
+            "chair": [
+                0.8508721590042114
+            ]
+        },
+        "auction_id": "4565826"
+    },
+    "auction_24_image_358.jpg": {
+        "prediction_filename": "pred_auction_24_image_358.jpg",
+        "predicted_data": {
+            "backpack": [
+                0.717979371547699
+            ],
+            "handbag": [
+                0.38387560844421387
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_24_image_359.jpg": {
+        "prediction_filename": "pred_auction_24_image_359.jpg",
+        "predicted_data": {
+            "backpack": [
+                0.717979371547699
+            ],
+            "handbag": [
+                0.38387560844421387
+            ]
+        },
+        "auction_id": "4539418"
+    },
+    "auction_24_image_360.jpg": {
+        "prediction_filename": "pred_auction_24_image_360.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.47095778584480286
+            ]
+        },
+        "auction_id": "4539418"
+    },
+    "auction_24_image_361.jpg": {
+        "prediction_filename": "pred_auction_24_image_361.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.5108177065849304
+            ],
+            "umbrella": [
+                0.269943505525589
+            ]
+        },
+        "auction_id": "4539418"
+    },
+    "auction_24_image_362.jpg": {
+        "prediction_filename": "pred_auction_24_image_362.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.4116494059562683,
+                0.3441667854785919
+            ],
+            "book": [
+                0.3835064768791199
+            ],
+            "backpack": [
+                0.3113323748111725,
+                0.283478319644928
+            ]
+        },
+        "auction_id": "4539418"
+    },
+    "auction_24_image_363.jpg": {
+        "prediction_filename": "pred_auction_24_image_363.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.5939253568649292
+            ],
+            "backpack": [
+                0.5832316279411316
+            ],
+            "suitcase": [
+                0.28607088327407837
+            ]
+        },
+        "auction_id": "4539418"
+    },
+    "auction_24_image_364.jpg": {
+        "prediction_filename": "pred_auction_24_image_364.jpg",
+        "predicted_data": {
+            "banana": [
+                0.6419690251350403
+            ],
+            "book": [
+                0.4655025899410248,
+                0.3324217200279236
+            ]
+        },
+        "auction_id": "4539418"
+    },
+    "auction_24_image_365.jpg": {
+        "prediction_filename": "pred_auction_24_image_365.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.3836713135242462
+            ],
+            "handbag": [
+                0.36445942521095276
+            ],
+            "backpack": [
+                0.2662786543369293
+            ]
+        },
+        "auction_id": "4539418"
+    },
+    "auction_25_image_380.jpg": {
+        "prediction_filename": "pred_auction_25_image_380.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4845661222934723,
+                0.4176284074783325,
+                0.3595810830593109,
+                0.3055058717727661
+            ],
+            "chair": [
+                0.4264023005962372
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_25_image_381.jpg": {
+        "prediction_filename": "pred_auction_25_image_381.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4845661222934723,
+                0.4176284074783325,
+                0.3595810830593109,
+                0.3055058717727661
+            ],
+            "chair": [
+                0.4264023005962372
+            ]
+        },
+        "auction_id": "4538397"
+    },
+    "auction_25_image_382.jpg": {
+        "prediction_filename": "pred_auction_25_image_382.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.42776480317115784,
+                0.4001309275627136,
+                0.3732895255088806,
+                0.34179016947746277,
+                0.3001142144203186,
+                0.2834852933883667
+            ],
+            "handbag": [
+                0.26480966806411743
+            ]
+        },
+        "auction_id": "4538397"
+    },
+    "auction_25_image_383.jpg": {
+        "prediction_filename": "pred_auction_25_image_383.jpg",
+        "predicted_data": {
+            "chair": [
+                0.6063598394393921
+            ],
+            "person": [
+                0.44473761320114136
+            ]
+        },
+        "auction_id": "4538397"
+    },
+    "auction_25_image_384.jpg": {
+        "prediction_filename": "pred_auction_25_image_384.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.6715115904808044,
+                0.4913298487663269
+            ],
+            "backpack": [
+                0.3433176279067993
+            ],
+            "handbag": [
+                0.29926013946533203
+            ]
+        },
+        "auction_id": "4538397"
+    },
+    "auction_25_image_385.jpg": {
+        "prediction_filename": "pred_auction_25_image_385.jpg",
+        "predicted_data": {
+            "chair": [
+                0.7812447547912598,
+                0.3447940945625305
+            ],
+            "bottle": [
+                0.5018622875213623
+            ],
+            "suitcase": [
+                0.31315305829048157
+            ]
+        },
+        "auction_id": "4538397"
+    },
+    "auction_25_image_386.jpg": {
+        "prediction_filename": "pred_auction_25_image_386.jpg",
+        "predicted_data": {
+            "oven": [
+                0.7445469498634338
+            ],
+            "suitcase": [
+                0.34081053733825684
+            ]
+        },
+        "auction_id": "4538397"
+    },
+    "auction_25_image_387.jpg": {
+        "prediction_filename": "pred_auction_25_image_387.jpg",
+        "predicted_data": {
+            "chair": [
+                0.8287335634231567
+            ],
+            "handbag": [
+                0.4909220039844513,
+                0.35640332102775574
+            ],
+            "keyboard": [
+                0.27380111813545227
+            ]
+        },
+        "auction_id": "4538397"
+    },
+    "auction_26_image_403.jpg": {
+        "prediction_filename": "pred_auction_26_image_403.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.3061710000038147,
+                0.29128631949424744
+            ],
+            "handbag": [
+                0.3056105077266693
+            ]
+        },
+        "auction_id": "4505834"
+    },
+    "auction_26_image_404.jpg": {
+        "prediction_filename": "pred_auction_26_image_404.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.7282444834709167,
+                0.7146943807601929,
+                0.6979517936706543,
+                0.6664134860038757,
+                0.6501829028129578,
+                0.5379851460456848,
+                0.4799269139766693,
+                0.45471712946891785,
+                0.40386393666267395,
+                0.34211912751197815,
+                0.33941906690597534,
+                0.3392743170261383,
+                0.3160473704338074,
+                0.3056469261646271,
+                0.2577601373195648
+            ],
+            "book": [
+                0.5240507125854492
+            ]
+        },
+        "auction_id": "4505834"
+    },
+    "auction_27_image_415.jpg": {
+        "prediction_filename": "pred_auction_27_image_415.jpg",
+        "predicted_data": {},
+        "auction_id": "4559538"
+    },
+    "auction_27_image_416.jpg": {
+        "prediction_filename": "pred_auction_27_image_416.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.310822069644928
+            ],
+            "handbag": [
+                0.2984158992767334,
+                0.2784259617328644
+            ],
+            "teddy bear": [
+                0.2659582793712616
+            ]
+        },
+        "auction_id": "4559538"
+    },
+    "auction_27_image_417.jpg": {
+        "prediction_filename": "pred_auction_27_image_417.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4367344379425049,
+                0.41601818799972534
+            ],
+            "handbag": [
+                0.42669808864593506
+            ]
+        },
+        "auction_id": "4559538"
+    },
+    "auction_28_image_429.jpg": {
+        "prediction_filename": "pred_auction_28_image_429.jpg",
+        "predicted_data": {
+            "chair": [
+                0.8198932409286499,
+                0.749972403049469
+            ]
+        },
+        "auction_id": "4559436"
+    },
+    "auction_28_image_430.jpg": {
+        "prediction_filename": "pred_auction_28_image_430.jpg",
+        "predicted_data": {
+            "toilet": [
+                0.5989338755607605
+            ],
+            "chair": [
+                0.4943464398384094,
+                0.3685241937637329
+            ]
+        },
+        "auction_id": "4559436"
+    },
+    "auction_28_image_431.jpg": {
+        "prediction_filename": "pred_auction_28_image_431.jpg",
+        "predicted_data": {},
+        "auction_id": "4559436"
+    },
+    "auction_28_image_432.jpg": {
+        "prediction_filename": "pred_auction_28_image_432.jpg",
+        "predicted_data": {
+            "chair": [
+                0.5011641979217529
+            ],
+            "suitcase": [
+                0.32426780462265015,
+                0.29910656809806824,
+                0.2984428405761719,
+                0.27635836601257324,
+                0.26587244868278503,
+                0.2536594569683075
+            ]
+        },
+        "auction_id": "4559436"
+    },
+    "auction_28_image_433.jpg": {
+        "prediction_filename": "pred_auction_28_image_433.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.2979438900947571
+            ],
+            "cup": [
+                0.25580453872680664
+            ]
+        },
+        "auction_id": "4559436"
+    },
+    "auction_28_image_434.jpg": {
+        "prediction_filename": "pred_auction_28_image_434.jpg",
+        "predicted_data": {
+            "couch": [
+                0.4328622817993164
+            ],
+            "bench": [
+                0.26248759031295776
+            ],
+            "chair": [
+                0.2589956521987915
+            ],
+            "teddy bear": [
+                0.256593257188797
+            ]
+        },
+        "auction_id": "4559436"
+    },
+    "auction_29_image_449.jpg": {
+        "prediction_filename": "pred_auction_29_image_449.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.6385553479194641,
+                0.40649494528770447,
+                0.3398265540599823,
+                0.33558642864227295,
+                0.3325592875480652,
+                0.31808412075042725,
+                0.2726518213748932,
+                0.2645668685436249
+            ],
+            "suitcase": [
+                0.457034707069397
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_29_image_450.jpg": {
+        "prediction_filename": "pred_auction_29_image_450.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.6385553479194641,
+                0.40649494528770447,
+                0.3398265540599823,
+                0.33558642864227295,
+                0.3325592875480652,
+                0.31808412075042725,
+                0.2726518213748932,
+                0.2645668685436249
+            ],
+            "suitcase": [
+                0.457034707069397
+            ]
+        },
+        "auction_id": "4559359"
+    },
+    "auction_29_image_451.jpg": {
+        "prediction_filename": "pred_auction_29_image_451.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.49980759620666504,
+                0.4047907292842865,
+                0.399850070476532,
+                0.3814515173435211
+            ]
+        },
+        "auction_id": "4559359"
+    },
+    "auction_29_image_452.jpg": {
+        "prediction_filename": "pred_auction_29_image_452.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.6597344875335693,
+                0.5692138671875,
+                0.521367609500885,
+                0.42300641536712646,
+                0.42027008533477783
+            ],
+            "suitcase": [
+                0.523005485534668
+            ]
+        },
+        "auction_id": "4559359"
+    },
+    "auction_29_image_453.jpg": {
+        "prediction_filename": "pred_auction_29_image_453.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.41812458634376526,
+                0.33345720171928406,
+                0.3046799302101135
+            ]
+        },
+        "auction_id": "4559359"
+    },
+    "auction_29_image_454.jpg": {
+        "prediction_filename": "pred_auction_29_image_454.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.5739025473594666,
+                0.2963401675224304
+            ],
+            "suitcase": [
+                0.5087984204292297,
+                0.33741843700408936
+            ]
+        },
+        "auction_id": "4559359"
+    },
+    "auction_29_image_455.jpg": {
+        "prediction_filename": "pred_auction_29_image_455.jpg",
+        "predicted_data": {},
+        "auction_id": "4559359"
+    },
+    "auction_2_image_16.jpg": {
+        "prediction_filename": "pred_auction_2_image_16.jpg",
+        "predicted_data": {
+            "bowl": [
+                0.3957465589046478
+            ],
+            "handbag": [
+                0.33040452003479004
+            ]
+        },
+        "auction_id": "4553932"
+    },
+    "auction_2_image_17.jpg": {
+        "prediction_filename": "pred_auction_2_image_17.jpg",
+        "predicted_data": {
+            "motorcycle": [
+                0.3235539495944977
+            ],
+            "suitcase": [
+                0.291926771402359
+            ]
+        },
+        "auction_id": "4553932"
+    },
+    "auction_2_image_18.jpg": {
+        "prediction_filename": "pred_auction_2_image_18.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.6410307884216309,
+                0.262065589427948
+            ],
+            "handbag": [
+                0.6331048607826233,
+                0.2702975571155548
+            ],
+            "book": [
+                0.27857521176338196
+            ]
+        },
+        "auction_id": "4553932"
+    },
+    "auction_2_image_19.jpg": {
+        "prediction_filename": "pred_auction_2_image_19.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.6305605173110962,
+                0.3962191641330719,
+                0.2598881721496582
+            ],
+            "suitcase": [
+                0.30352067947387695
+            ]
+        },
+        "auction_id": "4553932"
+    },
+    "auction_2_image_20.jpg": {
+        "prediction_filename": "pred_auction_2_image_20.jpg",
+        "predicted_data": {
+            "handbag": [
+                0.3780376613140106
+            ],
+            "cat": [
+                0.31131747364997864
+            ]
+        },
+        "auction_id": "4553932"
+    },
+    "auction_30_image_469.jpg": {
+        "prediction_filename": "pred_auction_30_image_469.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.7770318388938904,
+                0.6519986391067505,
+                0.5511918067932129,
+                0.4490509629249573,
+                0.4244413673877716,
+                0.3749234676361084,
+                0.3259912133216858,
+                0.32439547777175903,
+                0.29706871509552,
+                0.28806424140930176,
+                0.2501564025878906
+            ],
+            "handbag": [
+                0.5232117176055908,
+                0.343832790851593,
+                0.28234997391700745
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_30_image_470.jpg": {
+        "prediction_filename": "pred_auction_30_image_470.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.7770318388938904,
+                0.6519986391067505,
+                0.5511918067932129,
+                0.4490509629249573,
+                0.4244413673877716,
+                0.3749234676361084,
+                0.3259912133216858,
+                0.32439547777175903,
+                0.29706871509552,
+                0.28806424140930176,
+                0.2501564025878906
+            ],
+            "handbag": [
+                0.5232117176055908,
+                0.343832790851593,
+                0.28234997391700745
+            ]
+        },
+        "auction_id": "4565774"
+    },
+    "auction_30_image_471.jpg": {
+        "prediction_filename": "pred_auction_30_image_471.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.6293355822563171,
+                0.6184168457984924,
+                0.5838439464569092,
+                0.5777501463890076,
+                0.500521183013916,
+                0.3962419927120209,
+                0.37954455614089966,
+                0.36243903636932373,
+                0.3060605823993683,
+                0.2818310260772705,
+                0.27137312293052673,
+                0.26696059107780457
+            ],
+            "handbag": [
+                0.29838335514068604
+            ]
+        },
+        "auction_id": "4565774"
+    },
+    "auction_30_image_472.jpg": {
+        "prediction_filename": "pred_auction_30_image_472.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.6279670596122742,
+                0.5952991247177124,
+                0.445599764585495,
+                0.442760705947876,
+                0.40671053528785706,
+                0.4020250141620636,
+                0.36846140027046204,
+                0.3641398549079895,
+                0.3566667437553406,
+                0.33577612042427063,
+                0.32650670409202576,
+                0.2799701690673828,
+                0.2621056139469147,
+                0.25116220116615295
+            ],
+            "handbag": [
+                0.5498285293579102,
+                0.3099536895751953,
+                0.28086209297180176
+            ],
+            "person": [
+                0.3272992670536041
+            ]
+        },
+        "auction_id": "4565774"
+    },
+    "auction_3_image_34.jpg": {
+        "prediction_filename": "pred_auction_3_image_34.jpg",
+        "predicted_data": {
+            "bench": [
+                0.554938554763794
+            ],
+            "chair": [
+                0.2948766350746155
+            ]
+        },
+        "auction_id": "4553909"
+    },
+    "auction_3_image_35.jpg": {
+        "prediction_filename": "pred_auction_3_image_35.jpg",
+        "predicted_data": {
+            "bench": [
+                0.7219551801681519
+            ],
+            "chair": [
+                0.5575392842292786
+            ]
+        },
+        "auction_id": "4553909"
+    },
+    "auction_4_image_46.jpg": {
+        "prediction_filename": "pred_auction_4_image_46.jpg",
+        "predicted_data": {
+            "chair": [
+                0.7062041163444519
+            ]
+        },
+        "auction_id": "4563421"
+    },
+    "auction_4_image_47.jpg": {
+        "prediction_filename": "pred_auction_4_image_47.jpg",
+        "predicted_data": {
+            "chair": [
+                0.8197327256202698,
+                0.7431257367134094
+            ],
+            "handbag": [
+                0.44661563634872437,
+                0.3048996031284332
+            ]
+        },
+        "auction_id": "4563421"
+    },
+    "auction_4_image_48.jpg": {
+        "prediction_filename": "pred_auction_4_image_48.jpg",
+        "predicted_data": {
+            "chair": [
+                0.8298329710960388,
+                0.8252245187759399
+            ],
+            "handbag": [
+                0.38240694999694824
+            ]
+        },
+        "auction_id": "4563421"
+    },
+    "auction_4_image_59.jpg": {
+        "prediction_filename": "pred_auction_4_image_59.jpg",
+        "predicted_data": {
+            "stop sign": [
+                0.5183699727058411
+            ]
+        },
+        "auction_id": "4563421"
+    },
+    "auction_5_image_60.jpg": {
+        "prediction_filename": "pred_auction_5_image_60.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.8535611629486084
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_5_image_61.jpg": {
+        "prediction_filename": "pred_auction_5_image_61.jpg",
+        "predicted_data": {
+            "refrigerator": [
+                0.8535611629486084
+            ]
+        },
+        "auction_id": "4561364"
+    },
+    "auction_5_image_62.jpg": {
+        "prediction_filename": "pred_auction_5_image_62.jpg",
+        "predicted_data": {
+            "cat": [
+                0.6666474938392639
+            ],
+            "chair": [
+                0.6586669087409973
+            ],
+            "dog": [
+                0.6276423335075378
+            ]
+        },
+        "auction_id": "4561364"
+    },
+    "auction_6_image_72.jpg": {
+        "prediction_filename": "pred_auction_6_image_72.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.7080637216567993,
+                0.4819450378417969
+            ],
+            "chair": [
+                0.6644461154937744,
+                0.32971981167793274
+            ],
+            "handbag": [
+                0.44666746258735657
+            ],
+            "bed": [
+                0.32076916098594666
+            ],
+            "couch": [
+                0.30075159668922424,
+                0.2818358540534973
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_6_image_73.jpg": {
+        "prediction_filename": "pred_auction_6_image_73.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.7080637216567993,
+                0.4819450378417969
+            ],
+            "chair": [
+                0.6644461154937744,
+                0.32971981167793274
+            ],
+            "handbag": [
+                0.44666746258735657
+            ],
+            "bed": [
+                0.32076916098594666
+            ],
+            "couch": [
+                0.30075159668922424,
+                0.2818358540534973
+            ]
+        },
+        "auction_id": "4561339"
+    },
+    "auction_6_image_74.jpg": {
+        "prediction_filename": "pred_auction_6_image_74.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.6343802809715271,
+                0.6048192977905273
+            ],
+            "backpack": [
+                0.33277925848960876
+            ],
+            "cup": [
+                0.2769526541233063
+            ]
+        },
+        "auction_id": "4561339"
+    },
+    "auction_7_image_84.jpg": {
+        "prediction_filename": "pred_auction_7_image_84.jpg",
+        "predicted_data": {
+            "bed": [
+                0.7730663418769836
+            ],
+            "bench": [
+                0.6615729928016663
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_7_image_85.jpg": {
+        "prediction_filename": "pred_auction_7_image_85.jpg",
+        "predicted_data": {
+            "bed": [
+                0.7730663418769836
+            ],
+            "bench": [
+                0.6615729928016663
+            ]
+        },
+        "auction_id": "4561216"
+    },
+    "auction_8_image_94.jpg": {
+        "prediction_filename": "pred_auction_8_image_94.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.3848389983177185,
+                0.30602025985717773
+            ],
+            "handbag": [
+                0.34366345405578613
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_8_image_95.jpg": {
+        "prediction_filename": "pred_auction_8_image_95.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.3848389983177185,
+                0.30602025985717773
+            ],
+            "handbag": [
+                0.34366345405578613
+            ]
+        },
+        "auction_id": "4554533"
+    },
+    "auction_8_image_96.jpg": {
+        "prediction_filename": "pred_auction_8_image_96.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.3984709084033966
+            ],
+            "umbrella": [
+                0.3855847716331482
+            ],
+            "handbag": [
+                0.31022727489471436
+            ]
+        },
+        "auction_id": "4554533"
+    },
+    "auction_8_image_97.jpg": {
+        "prediction_filename": "pred_auction_8_image_97.jpg",
+        "predicted_data": {
+            "bed": [
+                0.28584110736846924
+            ]
+        },
+        "auction_id": "4554533"
+    },
+    "auction_9_image_108.jpg": {
+        "prediction_filename": "pred_auction_9_image_108.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4935680627822876,
+                0.45324835181236267,
+                0.30743497610092163,
+                0.2874235212802887,
+                0.26120007038116455
+            ]
+        },
+        "auction_id": null
+    },
+    "auction_9_image_109.jpg": {
+        "prediction_filename": "pred_auction_9_image_109.jpg",
+        "predicted_data": {},
+        "auction_id": null
+    },
+    "auction_9_image_110.jpg": {
+        "prediction_filename": "pred_auction_9_image_110.jpg",
+        "predicted_data": {
+            "suitcase": [
+                0.4935680627822876,
+                0.45324835181236267,
+                0.30743497610092163,
+                0.2874235212802887,
+                0.26120007038116455
+            ]
+        },
+        "auction_id": "4554478"
+    },
+    "auction_9_image_111.jpg": {
+        "prediction_filename": "pred_auction_9_image_111.jpg",
+        "predicted_data": {},
+        "auction_id": "4554478"
+    },
+    "auction_9_image_112.jpg": {
+        "prediction_filename": "pred_auction_9_image_112.jpg",
+        "predicted_data": {
+            "book": [
+                0.472141295671463
+            ]
+        },
+        "auction_id": "4554478"
+    }
+}
